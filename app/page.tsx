@@ -6,13 +6,13 @@ export default function Home() {
         <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-5"></div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <h1 className="text-5xl md:text-7xl font-serif mb-4 animate-fade-in">
-            CEPAC
+            8e CEPAC KASENGA
           </h1>
           <p className="text-xl md:text-2xl text-church-gold font-light animate-fade-in" style={{ animationDelay: '0.2s' }}>
             « La foi est l'ultime arme d'évolution »
           </p>
           <p className="text-gray-300 mt-6 max-w-2xl mx-auto animate-fade-in" style={{ animationDelay: '0.4s' }}>
-            Bienvenue sur le site de l'Église CEPAC. Découvrez nos cultes, 
+            Bienvenue sur le site de l'Église CEPAC KASENGA/Uvira. Découvrez nos cultes, 
             nos enseignements et notre communauté.
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-4 animate-fade-in" style={{ animationDelay: '0.6s' }}>
